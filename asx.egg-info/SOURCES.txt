@@ -1,7 +1,8 @@
 LICENSE.txt
 setup.cfg
 setup.py
-asx/ASX.py
+ASX/ASX.py
+ASX/__init__.py
 asx.egg-info/PKG-INFO
 asx.egg-info/SOURCES.txt
 asx.egg-info/dependency_links.txt
