@@ -1,10 +1,10 @@
 from setuptools import setup
-from distutils.core import setup
 from os import path
 
 setup(
   name = 'asx',
   packages = ['asx'],
+  package_dir = {'asx': 'ASX'},
   version = '1.0.0',
   license='MIT',
   description = 'Python library to access the ASX API: https://www.asx.com.au/asx/1/share',
